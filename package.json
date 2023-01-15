@@ -1,0 +1,22 @@
+{
+  "name": "api_auto",
+  "version": "1.0.0",
+  "description": "Verify Register Feature",
+  "main": "Register.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jokosetionodev/Porto_Automation_API.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Joko Setiono",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jokosetionodev/Porto_Automation_API/issues"
+  },
+  "homepage": "https://github.com/jokosetionodev/Porto_Automation_API#readme"
+}
